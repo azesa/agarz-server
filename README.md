@@ -1,0 +1,2 @@
+# agarz-server
+agarzgold.cf
